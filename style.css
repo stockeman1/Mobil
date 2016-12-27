@@ -17,11 +17,15 @@ body {
 	border: 1px solid orange;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+}
+
 li {
-	display: left;
-	left: 0;
-	background: #303030;
-	text-align: center;
+	float: left;
 }
 
 li a {
