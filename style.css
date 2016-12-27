@@ -1,0 +1,40 @@
+body {
+	width: 100%;
+	height: 100%;
+}
+
+.Toppen {
+	width: 300px;
+	height: 100px;
+	background: #333333;
+	border: 1px solid orange;
+}
+
+.Meny {
+	width: 300px;
+	height: 50px;
+	background: #333333;
+	border: 1px solid orange;
+}
+
+.Content {
+	width: 300px;
+	height: 450px;
+	background: #333333;
+	border: 1px solid orange;
+}
+
+.Botten {
+	width: 300px;
+	height: 50px;
+	background: #333333;
+	border: 1px solid orange;
+}
+
+#Table {
+	border: 1px solid orange;
+	border-radius: 3px;
+	text-align: center;
+	margin: 10px;
+	color: white;
+}
